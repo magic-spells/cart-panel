@@ -1,3 +1,5 @@
+This has been move to the [Cart](https://github.com/magic-spells/cart) monorepo.
+
 # Cart Panel Web Component
 
 A professional, highly-customizable shopping cart component built with Web Components. Features smooth animations, real-time cart synchronization, and seamless integration with Shopify and other e-commerce platforms.
